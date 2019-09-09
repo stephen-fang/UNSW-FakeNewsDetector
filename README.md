@@ -22,6 +22,10 @@ https://www.biendata.com/competition/falsenews/rules/
 
 https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c
 
+经验帖2
+
+https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/WSDM_Cup_2019_%E7%9C%9F%E5%81%87%E6%96%B0%E9%97%BB%E7%94%84%E5%88%AB.md
+
 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
