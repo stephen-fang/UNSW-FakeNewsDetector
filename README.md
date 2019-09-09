@@ -18,6 +18,10 @@ https://dl.acm.org/citation.cfm?id=3305260
 
 https://www.biendata.com/competition/falsenews/rules/
 
+经验帖1
+
+https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c
+
 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
