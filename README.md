@@ -18,6 +18,8 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [科大讯飞开放API](https://www.xfyun.cn/services/adFilterRecg)
 
+[怎么样抓取微信小程序](https://93nv.com/archives/63)
+
 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
