@@ -22,6 +22,8 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [怎么样抓取微信小程序](https://93nv.com/archives/63)
 
+[微信小程序爬虫](https://vp.fact.qq.com/miniSearchResult?title=%E5%93%88%E5%93%88%E5%93%88&num=0&size=20&_=1568525989622)
+
 [预处理和数据增广](https://zhpmatrix.github.io/2019/03/08/preprocess-augmentation-in-nlp/)
 
 [Kashgari文本分类包](https://github.com/BrikerMan/Kashgari)
