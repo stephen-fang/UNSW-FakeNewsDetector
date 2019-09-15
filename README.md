@@ -26,6 +26,8 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [预处理和数据增广](https://zhpmatrix.github.io/2019/03/08/preprocess-augmentation-in-nlp/)
 
+[https://www.kaggle.com/c/quora-question-pairs/discussion/34355](kaggle 问题意图识别任务)
+
 [Kashgari文本分类包](https://github.com/BrikerMan/Kashgari)
 
 相关论文网盘(更新中ing，包括官方的推荐论文):
