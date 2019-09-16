@@ -18,6 +18,13 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 # 步骤二: 构建特征池
 
+中科院Kaggle全球文本匹配竞赛华人第1名团队-深度学习与特征工程
+                                                                                
+https://github.com/HouJP/kaggle-quora-question-pairs
+
+ppt  视频文件
+链接:https://pan.baidu.com/s/117mU2n_l5YckOrcIxvpqIA  密码:6cv7
+
 [百度开放API](https://ai.baidu.com/tech/textcensoring)
 
 [科大讯飞开放API](https://www.xfyun.cn/services/adFilterRecg)
