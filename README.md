@@ -16,6 +16,10 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [第一名解决方案](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/references/WSDM2019_Fake_News_Classification/report2.pdf)
 
+# 第二步，构建特征池
+
+[百度开放API](https://ai.baidu.com/tech/textcensoring)
+
 [科大讯飞开放API](https://www.xfyun.cn/services/adFilterRecg)
 
 [腾讯文本审核API](https://cloud.tencent.com/document/api/271/35502)
@@ -30,9 +34,12 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [Kashgari文本分类包](https://github.com/BrikerMan/Kashgari)
 
-相关论文网盘(更新中ing，包括官方的推荐论文):
+[roberta_zh](https://github.com/brightmart/roberta_zh)
+
+[pytorch-transformer](https://github.com/huggingface/pytorch-transformers)
+
+[第一次讨论分工脑图](https://coggle.it/diagram/XX3DAxz2ip44C8k1/t/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AE%A8%E8%AE%BA)
+
+# 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
-
-[roberta_zh](https://github.com/brightmart/roberta_zh)
-[pytorch-transformer](https://github.com/huggingface/pytorch-transformers)
