@@ -16,7 +16,7 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 
 [第一名解决方案](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/references/WSDM2019_Fake_News_Classification/report2.pdf)
 
-# 步骤二，构建特征池
+# 步骤二: 构建特征池
 
 [百度开放API](https://ai.baidu.com/tech/textcensoring)
 
