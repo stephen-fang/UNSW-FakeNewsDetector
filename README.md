@@ -33,3 +33,6 @@ Repro for this Data competition: https://www.biendata.com/competition/falsenews/
 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
+
+[roberta_zh](https://github.com/brightmart/roberta_zh)
+[pytorch-transformer](https://github.com/huggingface/pytorch-transformers)
