@@ -47,6 +47,8 @@ ppt  视频文件
 
 [第一次讨论分工脑图](https://coggle.it/diagram/XX3DAxz2ip44C8k1/t/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AE%A8%E8%AE%BA)
 
+[NLP工具集](https://github.com/kidden/nlp4han)
+
 # 相关论文网盘(更新中ing，包括官方的推荐论文):
 
 https://drive.google.com/open?id=19sByA1umoccB8FNZ3JcZQMLb8x6RYfUD
